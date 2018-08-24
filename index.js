@@ -8,7 +8,7 @@ const pipeline = [{
 }];
 
 MongoClient.connect(
-    "mongodb://10.10.10.180:27017"
+    "mongodb: //localhost:27017,localhost:27018,localhost:27019?replicaSet=mongo-repl"
   )
   .then(client => {
     console.log("Connected correctly to server");
