@@ -1,3 +1,6 @@
+## Change
+This bug has been fixed by mongodb. Ref to PR: https://github.com/mongodb/node-mongodb-native/pull/1816
+
 # Mongodb Change Streams Node.js Example
 
 This is demo project shows mongodb change streams change event bug.
