@@ -1,5 +1,5 @@
 ## Change
-This bug has been fixed by mongodb. 
+This bug has been fixed by mongodb.   
 Ref to PR: https://github.com/mongodb/node-mongodb-native/pull/1816
 
 # Mongodb Change Streams Node.js Example
